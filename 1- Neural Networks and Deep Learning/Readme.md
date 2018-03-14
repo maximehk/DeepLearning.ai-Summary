@@ -681,7 +681,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - He need to stabilize GANs to be like deep learning.
   - GANs stabilizing will take the market as the best generative model.
 - Ian wrote the first deep learning textbook with Yoshua Bengio and Aaron Courville.
-- He works with [https://openai.com/](OpenAI.com) 
+- He works with [OpenAI.com](https://openai.com/)
 - He tells all of the ones who want to get into AI to get a PHD or post your code on Github and the companies will find you.
 - He thinks that we need to start with securing NN right in the start while we develop it.'
 
